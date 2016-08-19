@@ -14,27 +14,4 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#-------------------------------
-# General Site Settings
-
-title: everydaySpace
-description: Space Pictures, Everyday
-email: budha.rocks@gmail.com
-
-
-# seo:
-#   description: 'Provide a description for your website to make it visible to search engines.'
-#   rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-#   rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-
-#-------------------------------
-# Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-#google-analytics-ua: UA-XXXXXX-X
-
-#-------------------------------
+port: 8000
